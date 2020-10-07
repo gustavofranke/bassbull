@@ -12,4 +12,6 @@ cd bassbull/
 stack setup
 stack build
 stack exec bassbull
+stack test
+stack ghci bassbull:tests
 ```
